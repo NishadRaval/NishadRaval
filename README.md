@@ -12,7 +12,7 @@ Currently exploring Full-Stack Development → Software Development → AI
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Information Technology @ P.P. Savani University
+* 🎓 BSc Information Technology @ P.P. Savani University
 * 💻 Building with MERN Stack and modern web technologies
 * 🧩 Interested in backend systems, APIs and product development
 * 🌱 Currently improving Node.js and full-stack development
