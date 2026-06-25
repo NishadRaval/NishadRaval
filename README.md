@@ -36,9 +36,10 @@ Currently exploring Full-Stack Development → Software Development → AI
 
 Full-stack expense tracking application built using MERN stack for managing and organizing personal expenses.
 
-### 🍽 Restaurant Business Website
+### 🤖 LADO — Local Autonomous Digital Operator
 
-Designed and developed a responsive website for a real client business and deployed it for production use.
+Local-first desktop assistant for intelligent file management, duplicate detection, real-time monitoring, and natural language interaction.
+
 
 ---
 
