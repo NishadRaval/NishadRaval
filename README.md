@@ -1,45 +1,68 @@
 <h1 align="center">Hey 👋 I'm Nishad Raval</h1>
 
+<h3 align="center">
+Building my journey from Python fundamentals to Artificial Intelligence 🚀
+</h3>
+
 <p align="center">
-Full-Stack Developer • MERN • Building practical web applications and learning backend engineering
+BSc Information Technology Student • Developer • Future AI Engineer
 </p>
 
 <p align="center">
-Currently exploring Full-Stack Development → Software Development → AI
+Currently learning Python deeply while building projects and documenting the journey publicly.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 BSc Information Technology @ P.P. Savani University
-* 💻 Building with MERN Stack and modern web technologies
-* 🧩 Interested in backend systems, APIs and product development
-* 🌱 Currently improving Node.js and full-stack development
-* ⚡ I enjoy turning ideas into real projects
+- 🎓 BSc Information Technology student at P. P. Savani University
+- 🐍 Currently focused on mastering Python fundamentals
+- 🤖 Long-term goal: Artificial Intelligence and Machine Learning
+- 🌐 Previously worked with Full-Stack Web Development and MERN Stack
+- 💡 Passionate about building useful products and solving real problems
+- 📈 Learning in public and documenting progress through GitHub
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Current Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
 
 </p>
 
 ---
 
-## 📌 Featured Work
+## 🎯 Current Focus
 
-### 💸 SpendSense — Personal Finance Tracker
+```text
+Python Fundamentals
+↓
+Object Oriented Programming
+↓
+Advanced Python
+↓
+Projects
+↓
+Machine Learning
+↓
+Artificial Intelligence
+```
 
-Full-stack expense tracking application built using MERN stack for managing and organizing personal expenses.
+---
 
-### 🤖 LADO — Local Autonomous Digital Operator
+## 📂 Featured Projects
 
-Local-first desktop assistant for intelligent file management, duplicate detection, real-time monitoring, and natural language interaction.
+### 💸 SpendSense
+Personal finance tracker built using the MERN stack for managing expenses and financial insights.
 
+### 🤖 LADO
+Local Autonomous Digital Operator — an intelligent local-first desktop assistant focused on file organization and automation.
+
+### 🐍 Python Learning Journey
+A public repository documenting my journey from Python basics to AI and Machine Learning.
 
 ---
 
@@ -55,22 +78,37 @@ Local-first desktop assistant for intelligent file management, duplicate detecti
 
 <p align="center">
 
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishadRaval&layout=compact&theme=transparent&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishadRaval&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌱 Currently Learning
+
+- Python
+- Object Oriented Programming
+- Git and GitHub
+- Problem Solving
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://nishadraval.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/nishadraval/">LinkedIn</a> • <a href="mailto:nishadsraval@gmail.com">Email</a>
+<a href="https://nishadraval.site/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/nishadraval/">LinkedIn</a> •
+<a href="mailto:nishadsraval@gmail.com">Email</a>
 
 </p>
 
 ---
 
 <p align="center">
-Thanks for visiting ⭐
+
+### "Small improvements every day eventually become extraordinary results."
+
+⭐ Thanks for visiting my profile!
+
 </p>
